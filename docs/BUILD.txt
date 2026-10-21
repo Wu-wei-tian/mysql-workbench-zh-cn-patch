@@ -1,0 +1,45 @@
+Rebuilding
+
+Inputs
+
+- Windows x64; Node.js 24 tested; npm and PowerShell 7 for the build host.
+- Inno Setup 6.5.3 (tested). Install it separately or pass its ISCC.exe path.
+- Original MySQL Workbench 26.7.0 Windows x64 installation (MSI layout).
+- The official 26.7.0 Windows ZIP and corresponding Workbench source ZIP. These are build inputs, not private configuration files.
+
+Extract localization-source.zip to an empty directory. Put the official source ZIP in upstream/mysql-workbench-26.7.0-src.zip. Build commands:
+
+npm ci --ignore-scripts
+pwsh scripts/build.ps1 -OriginalDir 'C:\Program Files\MySQL\MySQL Workbench' -RuntimeZip 'D:\downloads\mysql-workbench-26.7.0-winx64.zip' -InnoCompiler 'C:\Program Files (x86)\Inno Setup 6\ISCC.exe'
+
+scripts/build.ps1 stages copies, rebuilds both layouts, runs static tests, archives source, and compiles both EXEs. It never changes the input installation. Paths in the final application and installer are resolved relative to the install root or through Windows known folders. No target needs the build-host path.
+
+If the input installation already has this patch, the build reconstructs an original input copy under build/input-msi-* using its verified localization/original backups. It refuses missing or incorrect backups. Keep these backups when maintaining the project. The build still requires the MSI layout as its OriginalDir input; the ZIP layout comes from RuntimeZip.
+
+The source ZIP is downloaded from the fixed official URL if absent and its published MD5 is checked. The runtime ZIP SHA-256 must match the pinned manifest. The source archive is a Workbench frontend/plugin source archive; it is not a complete native MySQL Shell source distribution.
+
+Localization design
+
+scripts/localize.cjs parses the original JavaScript with Babel and instruments a constrained set of display properties. It does not perform global string replacement or DOM text replacement. String values in SQL, data records, identifiers, JSON keys and protocol fields are not generally selected. Special reviewed anchors are documented in the script. Template placeholders retain their original expressions and evaluation order.
+
+locales/zh-CN.json is the runtime dictionary. The reviewed TSV batches and frozen catalogs preserve authoring provenance; scripts/import-translations.cjs rebuilds the JSON from them. inventory.json records locations and untranslated.json records candidates without translations. Candidate coverage is not a claim of whole-product coverage: dynamic messages, embedded libraries and text assembled outside recognized display positions are outside the extractor's scope.
+
+src/l10n.cjs handles native language selection; src/renderer.js handles frontend lookup. English mode returns original messages. No translation network request is made at runtime.
+
+Tests
+
+npm test
+node tests/e2e.cjs
+pwsh tests/installer-lifecycle.ps1
+pwsh tests/standalone-lifecycle.ps1 -RuntimeZip 'D:\downloads\mysql-workbench-26.7.0-winx64.zip'
+python tests/data-roundtrip.py
+
+The E2E test requires the isolated test database described in tests/start-test-db.ps1. It must not be pointed at a personal or production database. It uses a new Workbench profile under build/, and port 13367 bound to loopback. CLI dump/reload checks are distinct from disabled UI import/export actions.
+
+Installer lifecycle tests use disposable copies under build/ and /CURRENTUSER; they never patch the real Program Files installation. Review their paths before running. Clean Windows VM testing is a separate manual gate, not implied by local lifecycle tests.
+
+Use a fresh -RunId for each lifecycle test run. To test the installed application, set WB_TEST_EXE to that installation's executable and run node tests/e2e.cjs installed. Run E2E sessions sequentially because their UI test database is shared. Shut down only the disposable server after testing; do not stop a system MySQL service.
+
+Release limitations
+
+The installers are unsigned previews. Do not label a build production-ready until clean Windows 10/11 tests, full UI review, upstream update handling and distribution-license review have been completed. Upstream updates must receive new fingerprints and a separate compatibility review.

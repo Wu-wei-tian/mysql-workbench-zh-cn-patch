@@ -1,0 +1,17 @@
+MySQL Workbench 26.7.0 简体中文社区汉化版 — 预览版 1
+
+这是独立制作的非官方汉化版，不是 Oracle 官方发行版。
+
+安装程序需要联网从 Oracle 下载指定的 26.7.0 Windows x64 程序包（318 MiB），
+并在解压前校验 SHA-256。如安装程序旁边已有同名官方 ZIP 包，会先校验并使用。
+目标电脑无需预装 Workbench、Node.js、Python、npm 或 Inno Setup。
+
+当前预览版已翻译大量界面文本，部分动态消息、编辑器命令、技术说明及外部帮助
+仍为英文。Windows 10 和干净系统环境的兼容性尚需验证。
+
+本版本使用独立目录，不覆盖已有安装。个人配置保存在：
+%APPDATA%\MySQL Workbench zh-CN
+卸载时保留个人配置。本程序不安装或修改 MySQL Server。
+
+原程序的许可证文件完整保留。所修改 Workbench 资源的对应源码及汉化源码
+随程序安装到 localization\source 目录。

@@ -1,0 +1,16 @@
+Changelog
+
+26.7.0-zh.1 — 2026-10-21 — Preview
+
+- Verified the installed 26.7.0.0 MSI build and the official 26.7.0 ZIP build. Their hashed frontend chunk names differ; separate manifests are required.
+- Added a reviewed Simplified Chinese dictionary, AST-selected display-string instrumentation, placeholder formatting and English fallback.
+- Localized navigation, connection editing, SQL actions, result controls, server administration, user privileges, backup, migration and REST service interface text.
+- Added persistent language selection. Switching takes effect after a deliberate restart, without discarding unsaved work.
+- Preserved SQL, object names, data values, protocol keys and original executable files.
+- Added an offline patch installer with file fingerprints, verified originals and English restoration, supporting both verified runtime layouts.
+- Added an independent online installer that retrieves the official fixed-version runtime and validates SHA-256.
+- Kept the existing profile for in-place patches; isolated profiles for independent installations.
+- Added extraction inventories, explicit untranslated entries, build scripts, automated tests and installation lifecycle tests.
+- Included Simplified Chinese and English installer wizard languages, using the attributed Inno Setup community translation.
+
+This is an unofficial preview. It is not a complete translation or a certified production release. See the test report for actual evidence and gaps.

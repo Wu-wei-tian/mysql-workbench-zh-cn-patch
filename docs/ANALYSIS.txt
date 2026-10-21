@@ -1,0 +1,36 @@
+Installation and implementation analysis
+
+Inspected on 2026-10-21. The actual installation is C:\Program Files\MySQL\MySQL Workbench. Its application package reports 26.7.0; the executable reports product version 26.7.0.0 and has a valid Oracle America, Inc. Authenticode signature. The original installation was not patched during development.
+
+Architecture confirmed from files
+
+This release uses Electron 43.2.0, unpacked resources/app/src/*.cjs desktop code, and a bundled Preact/Vite frontend under resources/app/frontend/build. The matching official source declares Preact 10.29.1 and Monaco Editor 0.52.2. MySQL Shell and Python plugins provide backend functionality. The top-level Chromium locales/*.pak files are browser-runtime translations, not a complete Workbench UI translation system.
+
+There is no existing complete Simplified Chinese Workbench catalog to switch on. Native menus are created in src/main.cjs; most user-visible text is embedded in frontend JavaScript chunks. Therefore old Workbench 8.0 native-binary localization instructions were not used.
+
+The MSI installation and official Windows ZIP contain different frontend chunk names and hashes despite sharing version 26.7.0. Two manifests and two payload layouts are built. Example: MSI ApplicationHost-QGx949WF.js, ZIP ApplicationHost-DxSYK8q-.js. Cross-applying one layout to the other is unsafe.
+
+Chosen implementation
+
+The build parses JavaScript with Babel and wraps reviewed display positions in a dictionary lookup. Templates pass their original expressions as arguments. Runtime English fallback returns the original UI strings. It does not translate arbitrary DOM text, database values or SQL buffers. Source transformations, dictionary authoring inputs, inventories and original/patched SHA-256 fingerprints are included.
+
+Nine original resources are changed per layout: seven frontend chunks, the desktop main module and the frontend HTML entry point. Three helper files provide the dictionary and translation runtime. The signed executable, DLLs and MySQL Shell runtime are copied unchanged. This preserves their file signatures; it does not make the modified application an Oracle-signed localization.
+
+The MSI main executable has a valid Oracle signature. The main executable in the official pinned ZIP reports NotSigned before and after localization; that upstream difference must not be confused with signature damage from patching.
+
+The in-place patch preserves the existing application profile. The independent installer adds a marker selecting its own %APPDATA%\MySQL Workbench zh-CN profile. Language selection changes only ui-language.json and takes effect on the next restart.
+
+The patch installer verifies all target resources before making backups or changes. Repeated installation accepts only known original/patched hashes with valid original backups. Uninstall restores known originals and refuses to overwrite unknown updated resources. Standalone installation refuses unrelated existing installations and keeps untracked user files on uninstall.
+
+Scope and gaps
+
+The extractor found 1,903 unique candidate strings at 2,530 locations. The dictionary translates 1,799 candidates at 2,267 locations. The remaining 104 candidates are recorded in locales/preserved.json, including commands, technical identifiers, product names, units and candidates deferred for review. This denominator excludes dynamic backend messages, third-party editor messages and strings assembled outside recognized display positions; it must not be described as whole-product percentage coverage.
+
+Visible remaining English includes some password prompts, runtime status values, result summaries, profile defaults, Monaco commands, backend errors and external help. No blanket claim of complete localization is made.
+
+Official source gui/frontend/src/components/ResultView/ResultTabView.tsx marks result export and import menu items disabled (lines 755–762 in this source archive). The patch preserves those upstream feature states. CLI dump/reload tests do not establish that these UI features work.
+
+The matching official Workbench source ZIP was obtained from:
+https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-26.7.0-src.zip
+
+Runtime distribution and corresponding-source boundaries are documented separately in SOURCE-LICENSE-NOTICE.txt. Full native runtime redistribution is deliberately not part of the patch payload.

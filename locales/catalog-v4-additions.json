@@ -1,0 +1,678 @@
+[
+  {
+    "english": "Access Denied",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 803786
+      }
+    ]
+  },
+  {
+    "english": "Access Granted",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 803871
+      }
+    ]
+  },
+  {
+    "english": "Access Suspicious",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 803961
+      }
+    ]
+  },
+  {
+    "english": "Admin Address",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 800463
+      }
+    ]
+  },
+  {
+    "english": "Admin Port",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 800531
+      }
+    ]
+  },
+  {
+    "english": "Base Directory",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 802946
+      }
+    ]
+  },
+  {
+    "english": "Binary Log",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 801231
+      }
+    ]
+  },
+  {
+    "english": "Bind Address",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 800296
+      }
+    ]
+  },
+  {
+    "english": "Cached Entries",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804053
+      }
+    ]
+  },
+  {
+    "english": "CERT REQUIRED",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 867153
+      }
+    ]
+  },
+  {
+    "english": "Changes",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 873627
+      }
+    ]
+  },
+  {
+    "english": "Compiled For",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 800595
+      }
+    ]
+  },
+  {
+    "english": "Configuration File",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 800662
+      }
+    ]
+  },
+  {
+    "english": "Data Directory",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 802998
+      }
+    ]
+  },
+  {
+    "english": "Directories and Logs",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 802907
+      }
+    ]
+  },
+  {
+    "english": "Error Log",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 803161
+      }
+    ]
+  },
+  {
+    "english": "Expiration",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 873297
+      }
+    ]
+  },
+  {
+    "english": "EXPIRED",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 866350
+      }
+    ]
+  },
+  {
+    "english": "Expired Accounts",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 872765
+      }
+    ]
+  },
+  {
+    "english": "EXPIRING",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 866551
+      }
+    ]
+  },
+  {
+    "english": "Firewall",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 802102
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 803740
+      }
+    ]
+  },
+  {
+    "english": "Firewall Trace",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 802183
+      }
+    ]
+  },
+  {
+    "english": "General Log",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 803309
+      }
+    ]
+  },
+  {
+    "english": "Host:Port",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 810344
+      }
+    ]
+  },
+  {
+    "english": "InnoDB Redo Log",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 801155
+      }
+    ]
+  },
+  {
+    "english": "LOCKED",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 866247
+      }
+    ]
+  },
+  {
+    "english": "Memcached Plugin",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 801572
+      }
+    ]
+  },
+  {
+    "english": "Not required",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 866913
+      }
+    ]
+  },
+  {
+    "english": "Offline mode",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 801065
+      }
+    ]
+  },
+  {
+    "english": "PAM Authentication",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 802648
+      }
+    ]
+  },
+  {
+    "english": "Password Validation",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 801802
+      }
+    ]
+  },
+  {
+    "english": "Performance Schema",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 801393
+      }
+    ]
+  },
+  {
+    "english": "Plugins Directory",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 803053
+      }
+    ]
+  },
+  {
+    "english": "Read-only",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 800876
+      }
+    ]
+  },
+  {
+    "english": "REQUIRED",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 867169
+      }
+    ]
+  },
+  {
+    "english": "Reuse",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 873527
+      }
+    ]
+  },
+  {
+    "english": "Semisync Replication Plugin",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 801668
+      }
+    ]
+  },
+  {
+    "english": "Server Features",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 802409
+      }
+    ]
+  },
+  {
+    "english": "Server ID",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 800169
+      }
+    ]
+  },
+  {
+    "english": "Server UUID",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 800230
+      }
+    ]
+  },
+  {
+    "english": "Slow Query Log",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 803466
+      }
+    ]
+  },
+  {
+    "english": "Socket",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 800359
+      }
+    ]
+  },
+  {
+    "english": "SSL Available",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 802312
+      }
+    ]
+  },
+  {
+    "english": "SSL CA",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804251
+      }
+    ]
+  },
+  {
+    "english": "SSL CA Path",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804317
+      }
+    ]
+  },
+  {
+    "english": "SSL Cert",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804390
+      }
+    ]
+  },
+  {
+    "english": "SSL Cipher",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804460
+      }
+    ]
+  },
+  {
+    "english": "SSL CRL",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804531
+      }
+    ]
+  },
+  {
+    "english": "SSL CRL Path",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804600
+      }
+    ]
+  },
+  {
+    "english": "SSL Key",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804674
+      }
+    ]
+  },
+  {
+    "english": "SSL Server Not After",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804853
+      }
+    ]
+  },
+  {
+    "english": "SSL Server Not Before",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804751
+      }
+    ]
+  },
+  {
+    "english": "Super read-only",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 800966
+      }
+    ]
+  },
+  {
+    "english": "Temp Directory",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 803109
+      }
+    ]
+  },
+  {
+    "english": "Thread Pool",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 801490
+      }
+    ]
+  },
+  {
+    "english": "TLS and Certificates",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 804202
+      }
+    ]
+  },
+  {
+    "english": "TLS Required",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 873862
+      }
+    ]
+  },
+  {
+    "english": "UNLOCKED",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 866636
+      }
+    ]
+  },
+  {
+    "english": "Uptime",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 810469
+      }
+    ]
+  },
+  {
+    "english": "Validation",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 873412
+      }
+    ]
+  },
+  {
+    "english": "Windows Authentication",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 802559
+      }
+    ]
+  }
+]

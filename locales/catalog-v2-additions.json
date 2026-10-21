@@ -1,0 +1,2310 @@
+[
+  {
+    "english": "Activity Actions",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 567150
+      }
+    ]
+  },
+  {
+    "english": "Add a result set definition returned by this stored procedure",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1017951
+      }
+    ]
+  },
+  {
+    "english": "Add badge",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 300412
+      }
+    ]
+  },
+  {
+    "english": "Add new property entry",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 844269
+      }
+    ]
+  },
+  {
+    "english": "Add New Row",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 117604
+      }
+    ]
+  },
+  {
+    "english": "Add table",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1200101
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1201461
+      }
+    ]
+  },
+  {
+    "english": "Allow sorting operations using this field",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 985019
+      }
+    ]
+  },
+  {
+    "english": "Apply Changes",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 145327
+      }
+    ]
+  },
+  {
+    "english": "Assign the required privileges to a MySQL user",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 577782
+      }
+    ]
+  },
+  {
+    "english": "Backup overview",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 560231
+      }
+    ]
+  },
+  {
+    "english": "Bottom-Up Layout",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 147813
+      }
+    ]
+  },
+  {
+    "english": "Clear All Notifications",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 762036
+      }
+    ]
+  },
+  {
+    "english": "Clear Search Input",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/Search-DjmAYbzW.js",
+        "line": 1,
+        "offset": 3050
+      }
+    ]
+  },
+  {
+    "english": "Click to Hide Grid",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1287065
+      }
+    ]
+  },
+  {
+    "english": "Click to Hide Rulers",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1287383
+      }
+    ]
+  },
+  {
+    "english": "Click to Lock Diagram",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1287716
+      }
+    ]
+  },
+  {
+    "english": "Click to Show Grid",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1287086
+      }
+    ]
+  },
+  {
+    "english": "Click to Show Rulers",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1287406
+      }
+    ]
+  },
+  {
+    "english": "Click to Unlock Diagram",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1287690
+      }
+    ]
+  },
+  {
+    "english": "Close Document",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1127117
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1127802
+      }
+    ]
+  },
+  {
+    "english": "Close Editor",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 412180
+      }
+    ]
+  },
+  {
+    "english": "Close Workspace",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1422791
+      }
+    ]
+  },
+  {
+    "english": "Collapse",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 8640
+      }
+    ]
+  },
+  {
+    "english": "Columns of child table",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1198835
+      }
+    ]
+  },
+  {
+    "english": "Columns of parent table",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1198312
+      }
+    ]
+  },
+  {
+    "english": "Connection ID",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 445978
+      }
+    ]
+  },
+  {
+    "english": "Connection status overview",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 496470
+      }
+    ]
+  },
+  {
+    "english": "Copied to Clipboard",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/AnimatedProgressIndicator-KPLqZ83K.js",
+        "line": 1,
+        "offset": 5694
+      }
+    ]
+  },
+  {
+    "english": "Copy URL to clipboard",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 132351
+      }
+    ]
+  },
+  {
+    "english": "Create New Notebook",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 212604
+      }
+    ]
+  },
+  {
+    "english": "Create user",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 850561
+      }
+    ]
+  },
+  {
+    "english": "Data Grid",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 143935
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 143996
+      }
+    ]
+  },
+  {
+    "english": "Database schema table",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 990721
+      }
+    ]
+  },
+  {
+    "english": "Days of month",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 532003
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 534306
+      }
+    ]
+  },
+  {
+    "english": "Delete badge",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 299703
+      }
+    ]
+  },
+  {
+    "english": "Delete field",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 987010
+      }
+    ]
+  },
+  {
+    "english": "Delete table",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1201598
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1201893
+      }
+    ]
+  },
+  {
+    "english": "Deselect all fields",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 986731
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1201317
+      }
+    ]
+  },
+  {
+    "english": "Disable ETAG calculations for this table.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 982564
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 986388
+      }
+    ]
+  },
+  {
+    "english": "Discard Changes",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 145516
+      }
+    ]
+  },
+  {
+    "english": "Display name for the DB System to be provisioned, to be shown in the OCI console.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 103601
+      }
+    ]
+  },
+  {
+    "english": "Display Options",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 466703
+      }
+    ]
+  },
+  {
+    "english": "Display selected field instead of the object. Updates will be disabled",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 992152
+      }
+    ]
+  },
+  {
+    "english": "Enables logging all traffic",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-DDxSmU9R.js",
+        "line": 1,
+        "offset": 12623
+      }
+    ]
+  },
+  {
+    "english": "Exclude this field from ETAG calculations",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 985624
+      }
+    ]
+  },
+  {
+    "english": "Exclude this schema",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 36213
+      }
+    ]
+  },
+  {
+    "english": "Execute full script",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 679855
+      }
+    ]
+  },
+  {
+    "english": "expand",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1112829
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 745278
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 745654
+      }
+    ]
+  },
+  {
+    "english": "Expand",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 8651
+      }
+    ]
+  },
+  {
+    "english": "Filter items",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 7698
+      }
+    ]
+  },
+  {
+    "english": "Filter Recent Activity",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 565092
+      }
+    ]
+  },
+  {
+    "english": "For receiving admin emails pertaining to the DB System. Separate multiple addresses with a comma (,)",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 103985
+      }
+    ]
+  },
+  {
+    "english": "Frequency",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 533303
+      }
+    ]
+  },
+  {
+    "english": "Full Details",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 148883
+      }
+    ]
+  },
+  {
+    "english": "Function",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 137514
+      }
+    ]
+  },
+  {
+    "english": "Graph options",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 757473
+      }
+    ]
+  },
+  {
+    "english": "Hide Details",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 465423
+      }
+    ]
+  },
+  {
+    "english": "Hide Notifications (Escape)",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 762421
+      }
+    ]
+  },
+  {
+    "english": "Hide password",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 871440
+      }
+    ]
+  },
+  {
+    "english": "Hide Sidebar",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1334710
+      }
+    ]
+  },
+  {
+    "english": "Hour",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 532474
+      }
+    ]
+  },
+  {
+    "english": "IN parameter",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 986110
+      }
+    ]
+  },
+  {
+    "english": "Include field in object composite key",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 984811
+      }
+    ]
+  },
+  {
+    "english": "inherit",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/AnimatedProgressIndicator-KPLqZ83K.js",
+        "line": 1,
+        "offset": 4325
+      },
+      {
+        "file": "resources/app/frontend/build/assets/AnimatedProgressIndicator-KPLqZ83K.js",
+        "line": 1,
+        "offset": 5813
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 117715
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 144141
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 144568
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 144833
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 145007
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 145249
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 145435
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 145628
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 145799
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 146020
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 147646
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 147970
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 149193
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 149389
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 149569
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 149753
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 155083
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 208036
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 212337
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 212541
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 212729
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 212933
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 299809
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 361611
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 404100
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 404315
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 404508
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 450166
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 456769
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 464745
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 465030
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 465247
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 465570
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 465935
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 466832
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 563710
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 565243
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 567306
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 577956
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 679792
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 680078
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 680384
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 680705
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 680997
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 681310
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 681649
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 681965
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 682208
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 682411
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 682567
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 682756
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 683042
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 697768
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 697997
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 721195
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 726647
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 726713
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 730594
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 730651
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 757602
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 757905
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 758206
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 758526
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 758867
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 759188
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 774775
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 774852
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 826784
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 827632
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 828313
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 830082
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 831160
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 832311
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 834276
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 835241
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 836813
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 836866
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 839627
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 841399
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 850004
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 850042
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 850492
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 850660
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 871623
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 988209
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 988303
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 989929
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1018557
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1018613
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1112952
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1124756
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1125086
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1125380
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1125685
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1126590
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1126881
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1127311
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1128152
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1204008
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1225974
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1226030
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1286098
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1286360
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1286625
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1286918
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1287232
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1287557
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1287860
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1288385
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1317627
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1334872
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1336709
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1336758
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1339614
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1339662
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1339920
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1403196
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1422913
+      },
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-DDxSmU9R.js",
+        "line": 1,
+        "offset": 3975
+      },
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-DDxSmU9R.js",
+        "line": 1,
+        "offset": 4102
+      },
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-DDxSmU9R.js",
+        "line": 1,
+        "offset": 4218
+      },
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-DDxSmU9R.js",
+        "line": 1,
+        "offset": 12901
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 746581
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 762120
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 762302
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 762483
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 791489
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 791621
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 791709
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 791892
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 813170
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 813241
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 831135
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 831320
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 839931
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 840871
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 844385
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 844592
+      },
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 36754
+      },
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 36805
+      },
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 134466
+      }
+    ]
+  },
+  {
+    "english": "Inherited global privileges can be restricted only at schema scope.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 835051
+      }
+    ]
+  },
+  {
+    "english": "INOUT parameter",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 986034
+      }
+    ]
+  },
+  {
+    "english": "Interval",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 533084
+      }
+    ]
+  },
+  {
+    "english": "Job Actions",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 563553
+      }
+    ]
+  },
+  {
+    "english": "Kill Connection",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 465117
+      }
+    ]
+  },
+  {
+    "english": "Load SQL Script from Disk...",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1126653
+      }
+    ]
+  },
+  {
+    "english": "Match Case",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/Search-DjmAYbzW.js",
+        "line": 1,
+        "offset": 2301
+      }
+    ]
+  },
+  {
+    "english": "Match Whole Word",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/Search-DjmAYbzW.js",
+        "line": 1,
+        "offset": 2538
+      }
+    ]
+  },
+  {
+    "english": "MEB configuration fields",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 530081
+      }
+    ]
+  },
+  {
+    "english": "Medium Details",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 148629
+      }
+    ]
+  },
+  {
+    "english": "Merge columns of the referenced table into this JSON object",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 988104
+      }
+    ]
+  },
+  {
+    "english": "Messages from shell backend and validation",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-DDxSmU9R.js",
+        "line": 1,
+        "offset": 12361
+      }
+    ]
+  },
+  {
+    "english": "Minimal Details",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 148368
+      }
+    ]
+  },
+  {
+    "english": "Minute",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 532481
+      }
+    ]
+  },
+  {
+    "english": "MySQL Enterprise Backup output",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 547221
+      }
+    ]
+  },
+  {
+    "english": "MySQL server information",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 529383
+      }
+    ]
+  },
+  {
+    "english": "MySQL username for the administrator account to be created at the target DB System",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 104470
+      }
+    ]
+  },
+  {
+    "english": "New Connection",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 404003
+      }
+    ]
+  },
+  {
+    "english": "New Folder",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 404203
+      }
+    ]
+  },
+  {
+    "english": "Next Page",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 144914
+      }
+    ]
+  },
+  {
+    "english": "Open in SQL Editor",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 450020
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 721024
+      }
+    ]
+  },
+  {
+    "english": "Open New Shell Console",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1403053
+      }
+    ]
+  },
+  {
+    "english": "OUT parameter",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 986094
+      }
+    ]
+  },
+  {
+    "english": "Password for your MySQL admin account at the target DB System. Passwords must be 8 to 32 characters long and contain at least one each of: uppercase, lowercase, digit and punctuation characters. The same username and password as the one for your source MySQL is used by default, if it is suitable.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 104865
+      }
+    ]
+  },
+  {
+    "english": "Performance report",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 754945
+      }
+    ]
+  },
+  {
+    "english": "Prevent filtering operations on this field",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 985229
+      }
+    ]
+  },
+  {
+    "english": "Prevent updates on this field",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 985434
+      }
+    ]
+  },
+  {
+    "english": "Preview Changes as SQL",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 144292
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 144396
+      }
+    ]
+  },
+  {
+    "english": "Previous Page",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 144728
+      }
+    ]
+  },
+  {
+    "english": "Procedure",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 137406
+      }
+    ]
+  },
+  {
+    "english": "Recall the next command",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 697838
+      }
+    ]
+  },
+  {
+    "english": "Recall the previous command",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 697608
+      }
+    ]
+  },
+  {
+    "english": "Refresh Connection",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1125222
+      }
+    ]
+  },
+  {
+    "english": "Remove selected entries",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 844447
+      }
+    ]
+  },
+  {
+    "english": "Remove the current result set definition",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1017741
+      }
+    ]
+  },
+  {
+    "english": "Reset Zoom",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 149291
+      }
+    ]
+  },
+  {
+    "english": "Restore original zoom and position",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1286762
+      }
+    ]
+  },
+  {
+    "english": "Save To File",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1317502
+      }
+    ]
+  },
+  {
+    "english": "Search Result",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/Search-DjmAYbzW.js",
+        "line": 1,
+        "offset": 2127
+      }
+    ]
+  },
+  {
+    "english": "Select \"Create New\" if you are new to OCI or would like to have a suitable\nVirtual Cloud Network automatically created. A VCN will be created in a compartment called \"Networks\", with a public\nsubnet for SSH connections and a private subnet for connectivity between applications and the DB System. If you already\nhave a VCN you would like to use or have specific requirements, please create the VCN beforehand and restart the\nMigration Assistant.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 96448
+      }
+    ]
+  },
+  {
+    "english": "Select a SDK language to display the specific interface names and datatypes",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1018861
+      }
+    ]
+  },
+  {
+    "english": "Select all fields",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 986571
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1201157
+      }
+    ]
+  },
+  {
+    "english": "Select Objects",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1285962
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1286492
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1288019
+      }
+    ]
+  },
+  {
+    "english": "Server authentication overview",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 872705
+      }
+    ]
+  },
+  {
+    "english": "Set as row ownership field",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 984460
+      }
+    ]
+  },
+  {
+    "english": "Show Action Menu",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 145926
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 149659
+      }
+    ]
+  },
+  {
+    "english": "Show Chat Options",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 682892
+      }
+    ]
+  },
+  {
+    "english": "Show Connection",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 456647
+      }
+    ]
+  },
+  {
+    "english": "Show details",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 134351
+      }
+    ]
+  },
+  {
+    "english": "Show Details",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 465438
+      }
+    ]
+  },
+  {
+    "english": "Show hidden characters",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 682466
+      }
+    ]
+  },
+  {
+    "english": "Show password",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 871456
+      }
+    ]
+  },
+  {
+    "english": "Show Sidebar",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1334725
+      }
+    ]
+  },
+  {
+    "english": "Since Performance Schema reset",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 741349
+      }
+    ]
+  },
+  {
+    "english": "Soft wrap lines",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 682628
+      }
+    ]
+  },
+  {
+    "english": "SSH connections to the jump host will be limited to the given IPv4 CIDR block (e.g. 0.0.0.0/0 to allow connections from anywhere). The default is the automatically detected IPv4 egress address used by this host.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 101867
+      }
+    ]
+  },
+  {
+    "english": "Stop execution of the current statement/script",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 682036
+      }
+    ]
+  },
+  {
+    "english": "Switch Do Not Disturb Mode",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 762211
+      }
+    ]
+  },
+  {
+    "english": "Table",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 137190
+      },
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 137286
+      }
+    ]
+  },
+  {
+    "english": "Table sizes treemap",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 733731
+      }
+    ]
+  },
+  {
+    "english": "The session is not connected to a MySQL server",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1237414
+      }
+    ]
+  },
+  {
+    "english": "This unavailable object cannot be granted new privileges.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 836204
+      }
+    ]
+  },
+  {
+    "english": "Toggle maximized/embedded mode",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-DDxSmU9R.js",
+        "line": 1,
+        "offset": 12809
+      }
+    ]
+  },
+  {
+    "english": "Toggle MRS SQL Preview",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1018424
+      }
+    ]
+  },
+  {
+    "english": "Toggle SQL Preview",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1225812
+      }
+    ]
+  },
+  {
+    "english": "Top-Down Layout",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 147489
+      }
+    ]
+  },
+  {
+    "english": "Trigger",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 137717
+      }
+    ]
+  },
+  {
+    "english": "Type the admin password again",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 105497
+      }
+    ]
+  },
+  {
+    "english": "Use Regular Expression",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/Search-DjmAYbzW.js",
+        "line": 1,
+        "offset": 2781
+      }
+    ]
+  },
+  {
+    "english": "User interface explanation",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 207784
+      }
+    ]
+  },
+  {
+    "english": "Visual Explain Details",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 148193
+      }
+    ]
+  },
+  {
+    "english": "Visual Explain Layout",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 147304
+      }
+    ]
+  },
+  {
+    "english": "Visual explain plan",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 91246
+      }
+    ]
+  },
+  {
+    "english": "Zoom in/out",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1286233
+      }
+    ]
+  }
+]

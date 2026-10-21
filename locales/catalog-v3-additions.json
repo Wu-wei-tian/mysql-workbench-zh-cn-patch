@@ -1,0 +1,737 @@
+[
+  {
+    "english": "\n              @keyframes {0} {\n                0%   { stroke-dashoffset: 0; }\n                100% { stroke-dashoffset: {1}; }\n              }\n            ",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 22239,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} {1} as default role",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 826501,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} {1} found.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 366724,
+        "template": true
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 367581,
+        "template": true
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 368442,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} could not be validated",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 368649,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} deleted; {1} retained.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 370442,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} for OCI jump host {1} found.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 368516,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} free",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 594110,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} Help",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/src/main.cjs",
+        "line": 1955,
+        "offset": 65165,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} mysqlbackup requires read access to the MySQL data directory ({1}). Therefore, the user you run Workbench as must have read permission to data directory and its contents.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 522526,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} objects excluded",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 33108,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} of {1} accounts currently have expired passwords. Select to filter the account list.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 873000,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} operation not supported for this object",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1203925,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} seconds",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 464399,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0} transactions behind",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 120947,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "{0}% of statements in this instance executed in {1} or less.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 729648,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "About {0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/src/main.cjs",
+        "line": 1784,
+        "offset": 58424,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Accepted values for {0}: 0–{1}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 532551,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Accepted values for interval: 1–{0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 533155,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Add {0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 827524,
+        "template": true
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 830802,
+        "template": true
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 836183,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Allow {0} operations on this object",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 989859,
+        "template": true
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1203881,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Cannot expand the tree beyond {0} descendants.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1219137,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Clear Password",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 315355
+      }
+    ]
+  },
+  {
+    "english": "Column datatype '{0}' is not supported.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1219882,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Data {0} / Index {1}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 735450,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Database Connection Configuration",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 302597
+      }
+    ]
+  },
+  {
+    "english": "Day {0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 532148,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Edit {0} Data",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 107837,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Enter a new password for {0}.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 513112,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Enter the existing password for {0}.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 509442,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Estimated Size: ~{0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 77314,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Execute {0}everything in the current block and create a new block",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 679522,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Execute {0}full {1} on HeatWave and create a new block",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 681381,
+        "template": true
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1339092,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Execute the {0} and print the result as text",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 680447,
+        "template": true
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1337709,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Export MRS SDK Files for {0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1038684,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Export MRS SDK for {0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1090465,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "HeatWave Cluster ({0} node{1})",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 1097525,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Loading Enterprise Backup",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 574661
+      }
+    ]
+  },
+  {
+    "english": "MEB support not available for this connection",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 575701
+      }
+    ]
+  },
+  {
+    "english": "MEB support not configured",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 575061
+      }
+    ]
+  },
+  {
+    "english": "MySQL Enterprise Backup",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 559712
+      }
+    ]
+  },
+  {
+    "english": "mysqlbackup was not found at {0}. MySQL Enterprise Edition is required.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 522075,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Release Notes",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/index-BWkVueFs.js",
+        "line": 2,
+        "offset": 114344
+      }
+    ]
+  },
+  {
+    "english": "Remove {0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 826680,
+        "template": true
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 829973,
+        "template": true
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 835121,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Revoke {0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 836675,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Roles and Privileges for {0}@{1}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 883426,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Schemas: {0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 76933,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Select up to {0} tags to display with the connection.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 312407,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Session to {0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 335765,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Sort by {0} {1}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 832079,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Store Password",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 315258
+      }
+    ]
+  },
+  {
+    "english": "table {0}",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 135601,
+        "template": true
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 140076,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Test Connection",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 328451
+      }
+    ]
+  },
+  {
+    "english": "The {0} estimate is above {1}.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 729602,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "The current OS user must be able to read and traverse {0}.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 522749,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "There are no {0} in this schema",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-BAXQcd_q.js",
+        "line": 1,
+        "offset": 33471,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "This statement executes in {0} or less {1}% of the time.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 729713,
+        "template": true
+      }
+    ]
+  },
+  {
+    "english": "Top {0} Queries",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-QGx949WF.js",
+        "line": 2,
+        "offset": 719489,
+        "template": true
+      }
+    ]
+  }
+]

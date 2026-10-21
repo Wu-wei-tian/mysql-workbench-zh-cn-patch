@@ -1,0 +1,9 @@
+  RestoreResource('resources\app\frontend\build\assets\AnimatedProgressIndicator-KPLqZ83K.js', '7cf19bc05388177d25e7d649dfbe56a7f641303059cfdfcd7e22e9a65e6fff33');
+  RestoreResource('resources\app\frontend\build\assets\ApplicationHost-QGx949WF.js', 'aa728f86f80317939557c3eabaacd035c498418f5191fd0db07b29ea41121bd3');
+  RestoreResource('resources\app\frontend\build\assets\CommunicationDebugger-DDxSmU9R.js', 'd51d3d19d1bf7f065f7bdc55b24a160f9264bdd5e9b2b5a629e74973361bf442');
+  RestoreResource('resources\app\frontend\build\assets\FileViewer-L0lIXlTj.js', '25f1f2ec6aa94a2539e39139988bc501899fe1dc1ba2e54f44e337d770940f59');
+  RestoreResource('resources\app\frontend\build\assets\index-BWkVueFs.js', 'ae28549f267370851d390c7f63fcf772c4ae97993fc15fb8409225a7f46b054f');
+  RestoreResource('resources\app\frontend\build\assets\MigrationSubApp-BAXQcd_q.js', '48cc95a0b411461139ff9006d5a9835343f9a8b1535749270f59008a5c32f218');
+  RestoreResource('resources\app\frontend\build\assets\Search-DjmAYbzW.js', 'efa03a3bbe57bdc9611cc83b5016074c4d488cffd39169ef04a17589d00f85a8');
+  RestoreResource('resources\app\src\main.cjs', 'a209652e095d1fc58bff8e7e52734e4cd2f9488747080f231014bc2c7e3b4b28');
+  RestoreResource('resources\app\frontend\build\index.html', 'c408d277a3bb1308ae4e25baeeaffdd776c354984c1a9fb08f29c526ced76b4f');

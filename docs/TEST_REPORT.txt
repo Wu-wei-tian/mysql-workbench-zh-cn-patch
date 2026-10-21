@@ -1,0 +1,48 @@
+Test report — 2026-10-21
+
+Release: 26.7.0-zh.1 preview, not a production certification or a claim of complete translation.
+
+Environment: Windows 11 Pro x64, 10.0.26200. Original Workbench 26.7.0.0 MSI; Electron 43.2.0; test server MySQL 8.4.13 in a separate workspace data directory on loopback port 13367.
+
+No existing credentials, user database data or MySQL Server configuration were read or changed.
+
+Verified locally
+
+Area — Result — Evidence and limits
+Complete build script — PASS — build-release-console.log; both layouts rebuilt, unit checks executed, source packaged and both EXEs compiled.
+Rebuild using an already patched input — PASS — build-patched-input-console.log; original input reconstructed from hash-verified backups in a disposable installation; both installers rebuilt.
+Translation and behavior checks — PASS — 18 tests — Placeholder multiplicity; English fallback; unchanged arbitrary SQL/data; AST comparison of all seven modified frontend chunks in each layout after removing translation wrappers; installer preservation flags; custom runtime code contains no build-host path. AST comparison is not proof of every semantic property.
+Chinese startup and graceful shutdown — PASS — MSI-layout copy and installed ZIP-layout application — e2e-msi.json, e2e-installed.json; both launched and closed in Chinese and English.
+Connection and SQL execution — PASS — both layouts — Created a connection to disposable loopback MySQL 8.4.13; created a database/table; inserted and selected Save and 简体中文测试. Names and values remained unchanged.
+SQL script save — PASS — both layouts — File contents checked against the input SQL. The native save-path chooser was stubbed to choose a fixture path. This does not validate all Windows file-dialog interactions.
+Administration screens — PASS — both layouts — Server status, user accounts, client connections and performance pages opened; screenshots captured. This is view/navigation coverage, not exhaustive administration-operation coverage.
+Language switching — PASS — both layouts — Selected English via the application menu, verified persisted language preference, restarted and observed English UI. The informational restart message box was stubbed; no unsaved-work discard was requested.
+Table/index/view operations — PASS — data-roundtrip.json; ALTER TABLE, index creation and view creation performed only in the disposable fixture.
+CLI export/import — PASS — mysqldump and mysql round trip preserved the two test rows and Chinese text. This is separate from UI import/export.
+Offline patch lifecycle — PASS — MSI and ZIP layouts — installer-lifecycle.json; initial install, repeat install, restore originals, reinstall, preserve a user-file sentinel, reject incompatible resources, refuse restoration over updated resources, refuse unowned helper-file collisions. SHA-256 checked for every modified original.
+Standalone official download — PASS — standalone-install.log; actual official download and SHA-256 verification followed by installation. This run did not use a companion ZIP.
+Standalone lifecycle — PASS — standalone-lifecycle.json; install into an empty directory, repeat, uninstall, reinstall while preserving untracked files, reject an unrelated existing installation and reject a corrupt companion ZIP. Lifecycle runs use the verified companion archive to avoid repeated downloads.
+Original executable integrity — PASS — MSI original and localized main executable retain a valid Oracle signature. The official ZIP main executable is already unsigned; its localized copy is also unsigned. binary-integrity.json compares all original EXE/DLL files against their localized copies. No EXE/DLL patching is used.
+Visual review — PASS for sampled screens — Home, connection dialog, SQL/result view, server status, accounts, clients, performance and English restart screenshots. No garbled Chinese or serious clipping observed in these samples; remaining English is documented.
+
+Installer lifecycle tests used disposable paths under the project and /CURRENTUSER, with the Simplified Chinese wizard language. They did not elevate to modify the real Program Files installation. The clean target directories were on the existing developer computer, not a clean operating-system image. Profile preservation was checked with test sentinels outside the install tree and untracked scripts inside it; existing personal connection stores were not inspected.
+
+未验证 / Not verified
+
+- Clean Windows 10/11 VM, a second physical computer, and execution with all developer tools removed. No Windows Sandbox, VMware or VirtualBox command was available in the inspected environment.
+- UAC elevation and real in-place patching of the user's Program Files installation. An actual elevation request returned the Windows message "操作已被用户取消" (operation canceled by the user), before the installer started. No original files were changed. The elevation request was not retried.
+- Every dialog, error path, DPI setting, Windows theme, screen size and accessibility mode.
+- Exhaustive GUI table-designer editing, privilege mutations, server start/stop, production connections, SSH/TLS authentication, cloud accounts, enterprise backup and migration workflows.
+- GUI result import/export: upstream menu items are disabled. They were not enabled or represented as functional by this patch.
+- Future upstream auto-update behavior. Known-hash checks refuse unsupported resources; future compatibility requires a new reviewed build.
+- Installer Authenticode reputation/SmartScreen acceptance. The community installers are unsigned.
+
+Evidence and reproducibility
+
+See the accompanying validation directory for selected build/install logs, JSON results, version/signature analysis and screenshots. Raw development logs remain in the workspace logs directory. Earlier development runs encountered asynchronous password-dialog timing and hidden-window screenshot timeouts; the test harness was corrected and the final listed runs passed. Earlier failed runs are not counted as passing tests.
+
+The source archive includes tests/localization.test.cjs, tests/e2e.cjs, tests/installer-lifecycle.ps1, tests/standalone-lifecycle.ps1, tests/start-test-db.ps1 and tests/data-roundtrip.py. Follow BUILD.txt; never redirect these tests to a personal or production database.
+
+The final packaging pass may change installer hashes because it embeds this report and updated source documentation. Test results apply to the listed runtime, installer logic and payload fingerprints; SHA256SUMS.txt identifies the delivered artifacts.
+
+Inno Setup compilation succeeds with non-fatal warnings for three obsolete keys retained in the upstream community language file and the supported FileCopy compatibility alias. Missing new Chinese wizard messages are supplied by this project's separate override file.

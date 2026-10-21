@@ -1,0 +1,2046 @@
+[
+  {
+    "english": "\n              @keyframes {0} {\n                0%   { stroke-dashoffset: 0; }\n                100% { stroke-dashoffset: {1}; }\n              }\n            ",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 22239,
+        "template": true
+      }
+    ],
+    "reason": "Executable CSS; never translate"
+  },
+  {
+    "english": " (ba08183)",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/AnimatedProgressIndicator-C8n_mnFb.js",
+        "line": 1,
+        "offset": 2526
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": " GB",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 113435
+      },
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 115263
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "(tid:",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 455517
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "[DEV]",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 130248
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "\\about",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 630123
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 632847
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\c",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 631243
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\chat",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 633947
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\connect",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 631079
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\disconnect",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 631395
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\exit",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 631538
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\h",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 630949
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 633677
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\help",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 630813
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 633541
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\js",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 630419
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 633143
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\nl",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 634063
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\option",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 631683
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\py",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 630553
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\q",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 631953
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\quit",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 631825
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\reconnect",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 632075
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 633807
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\s",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 632502
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\show",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 632214
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\sql",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 630246
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 632970
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\status",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 632365
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\ts",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 633277
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\u",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 632739
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "\\use",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 632629
+      }
+    ],
+    "reason": "MySQL Shell command; must remain executable"
+  },
+  {
+    "english": "^sales\\.",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 536446
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "^sales\\.orders$",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 536398
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "< 100 µs",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 708934
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "> 5 s",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709646
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "1–2 ms",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709125
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "1–2 s",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709556
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "10–20 ms",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709259
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "100–250 ms",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709404
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "100–250 µs",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 708978
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "1M",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1051846
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1052193
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "2–5 ms",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709169
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "2–5 s",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709601
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "20–50 ms",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709307
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "250–500 ms",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709455
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "250–500 µs",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709027
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "5–10 ms",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709213
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "50–100 ms",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709355
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "500 ms–1 s",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709506
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "500 µs–1 ms",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 709076
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "ChatQueryId",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 421382
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "cohere.command-r-08-2024 (added cost)",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 419321
+      }
+    ],
+    "reason": "Model identifier with pricing annotation; kept verbatim pending separate review"
+  },
+  {
+    "english": "cohere.command-r-plus-08-2024 (added cost)",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 419413
+      }
+    ],
+    "reason": "Model identifier with pricing annotation; kept verbatim pending separate review"
+  },
+  {
+    "english": "CONNECTION_ID",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 445774
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "CPUs",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 115142
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "false",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 125201
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "HeatWave",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 113727
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "HeatWave Chat",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 420133
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 949001
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "https://bugs.mysql.com",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 884627
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "I/O",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 447828
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "inherit",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/AnimatedProgressIndicator-C8n_mnFb.js",
+        "line": 1,
+        "offset": 4325
+      },
+      {
+        "file": "resources/app/frontend/build/assets/AnimatedProgressIndicator-C8n_mnFb.js",
+        "line": 1,
+        "offset": 5813
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 117715
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 144141
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 144568
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 144833
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 145007
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 145249
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 145435
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 145628
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 145799
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 146020
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 147646
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 147970
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 149193
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 149389
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 149569
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 149753
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 155083
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 208036
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 212337
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 212541
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 212729
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 212933
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 299809
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 361611
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 404100
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 404315
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 404508
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 450166
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 456769
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 464745
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 465030
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 465247
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 465570
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 465935
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 466832
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 563710
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 565243
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 567306
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 577956
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 679792
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 680078
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 680384
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 680705
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 680997
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 681310
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 681649
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 681965
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 682208
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 682411
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 682567
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 682756
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 683042
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 697768
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 697997
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 721195
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 726647
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 726713
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 730594
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 730651
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 757602
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 757905
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 758206
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 758526
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 758867
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 759188
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 774775
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 774852
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 826784
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 827632
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 828313
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 830082
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 831160
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 832311
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 834276
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 835241
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 836813
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 836866
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 839627
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 841399
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 850004
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 850042
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 850492
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 850660
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 871623
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 988209
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 988303
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 989929
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1018557
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1018613
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1112952
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1124756
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1125086
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1125380
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1125685
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1126590
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1126881
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1127311
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1128152
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1204008
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1225974
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1226030
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1286098
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1286360
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1286625
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1286918
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1287232
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1287557
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1287860
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1288385
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1317627
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1334872
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1336709
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1336758
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1339614
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1339662
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1339920
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1403196
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1422913
+      },
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-Bc4pnrmG.js",
+        "line": 1,
+        "offset": 3975
+      },
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-Bc4pnrmG.js",
+        "line": 1,
+        "offset": 4102
+      },
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-Bc4pnrmG.js",
+        "line": 1,
+        "offset": 4218
+      },
+      {
+        "file": "resources/app/frontend/build/assets/CommunicationDebugger-Bc4pnrmG.js",
+        "line": 1,
+        "offset": 12901
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 746581
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 762120
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 762302
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 762483
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 791489
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 791621
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 791709
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 791892
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 813170
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 813241
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 831135
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 831320
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 839931
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 840871
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 844385
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 844592
+      },
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 36754
+      },
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 36805
+      },
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 134466
+      }
+    ],
+    "reason": "UI tooltip inheritance sentinel; must remain exact"
+  },
+  {
+    "english": "Json",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1015494
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1223917
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "JSON",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 99497
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "Lakehouse",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 580289
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "lakehouse_data_<#>",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 588074
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 591895
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "libmysqlclient:",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/AnimatedProgressIndicator-C8n_mnFb.js",
+        "line": 1,
+        "offset": 3356
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "llama3-8b-instruct-v1",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 418857
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "llama3.1-8b-instruct-v1",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 419096
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "llama3.2-1b-instruct-v1",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 419168
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "llama3.2-3b-instruct-v1",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 419240
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "localhost",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 404946
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "lz4",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 538513
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "lzma",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 538556
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "meta.llama-3.1-405b-instruct (added cost)",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 419509
+      }
+    ],
+    "reason": "Model identifier with pricing annotation; kept verbatim pending separate review"
+  },
+  {
+    "english": "meta.llama-3.2-90b-vision-instruct (added cost)",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 419610
+      }
+    ],
+    "reason": "Model identifier with pricing annotation; kept verbatim pending separate review"
+  },
+  {
+    "english": "meta.llama-3.3-70b-instruct (added cost)",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 419710
+      }
+    ],
+    "reason": "Model identifier with pricing annotation; kept verbatim pending separate review"
+  },
+  {
+    "english": "Mistral",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 428871
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "mistral-7b-instruct-v1",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 418926
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "mistral-7b-instruct-v3",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 419025
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "MySQL Enterprise Backup",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 559712
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "MySQL REST Service",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 265014
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1046302
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1056973
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 861008
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "MySQL Routers",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 265224
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "MySQL Shell",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 751853
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "MySQL Shell for VS Code",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 377585
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "MySQL Shell GUI",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 860146
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "MySQL Workbench",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/AnimatedProgressIndicator-C8n_mnFb.js",
+        "line": 1,
+        "offset": 4033
+      },
+      {
+        "file": "resources/app/frontend/build/assets/AnimatedProgressIndicator-C8n_mnFb.js",
+        "line": 1,
+        "offset": 4495
+      },
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 860128
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "MySQL Workbench 8",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 377193
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "OCI ",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 24436
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "OCPUs ",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/index-CnMhw9fB.js",
+        "line": 2,
+        "offset": 859503
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "p95",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 726085
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "p99",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 726198
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "p99.9",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 726311
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "Performance Schema",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 801393
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "s",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 826105
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "SSH URI",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 316313
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "SSL",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 315534
+      },
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 869520
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "super_read_only",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 118400
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "T",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 456534
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "TBD",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/MigrationSubApp-CeufPgqE.js",
+        "line": 1,
+        "offset": 24903
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "TLS",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 822985
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "Top k:",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 425868
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "Top p:",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 426139
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "Trello",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 760201
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "true",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 125166
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "URI:",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 591521
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "URL",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 1193638
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "user@host:22",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 316347
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  },
+  {
+    "english": "zlib",
+    "translation": null,
+    "locations": [
+      {
+        "file": "resources/app/frontend/build/assets/ApplicationHost-DxSYK8q-.js",
+        "line": 2,
+        "offset": 538600
+      }
+    ],
+    "reason": "Technical identifier, product name, unit, protocol, example, or abbreviation intentionally kept verbatim"
+  }
+]

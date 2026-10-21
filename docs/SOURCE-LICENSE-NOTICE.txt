@@ -1,0 +1,26 @@
+Source and license notice
+
+This is an independent localization of MySQL Workbench 26.7.0 Community. Oracle and MySQL names identify the upstream product; no endorsement or official support is claimed.
+
+The installed distribution's LICENSE.txt states GPL version 2 with Oracle's additional linking permission. The original Electron, Chromium and third-party notices remain untouched. New localization code is distributed under GPL-2.0-only. Modified JavaScript and HTML carry modification notices dated 2026-10-21. The patch never modifies the signed executable or DLL bytes.
+
+The original resources are backed up before replacement. Sources for the modified application are supplied in localization/source/mysql-workbench-26.7.0-src.zip, together with localization-source.zip containing the dictionary and reproducible transformation scripts. The same source files are also supplied alongside the installers in dist.
+
+Official Workbench source:
+https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-26.7.0-src.zip
+
+Published MD5 (corruption check, not a cryptographic authenticity claim):
+0e0d076bf03a80b7cdfb9ea716bf08b2
+
+Official runtime retrieved directly by the independent installer:
+https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-26.7.0-winx64.zip
+
+Pinned SHA-256:
+a2abe0925d0cc0d31d9818e60342902d699cd965ba2b55515607bccb67787684
+
+The full Electron/MySQL Shell runtime is not redistributed inside these installers. The patch requires an existing official runtime. The independent installer downloads it directly from Oracle. This avoids claiming that the Workbench source archive alone satisfies all source-distribution obligations for the separately bundled MySQL Shell and its native dependencies. Before distributing a complete offline runtime bundle, independently assemble and review the complete corresponding source and all third-party obligations.
+
+No written multi-year source offer is made on behalf of the user. Sources actually included are identified above. The installer accepts only the fixed runtime hash; URL availability and future vendor changes are outside this project's control.
+
+The installer uses Inno Setup 6.5.3. Its license is included as installer/INNO-LICENSE.txt in the localization source archive. The unmodified community Simplified Chinese installer messages are from the same upstream tag, with their author attribution retained:
+https://github.com/jrsoftware/issrc/blob/is-6_5_3/Files/Languages/Unofficial/ChineseSimplified.isl

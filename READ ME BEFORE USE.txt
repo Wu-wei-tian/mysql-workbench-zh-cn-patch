@@ -1,0 +1,159 @@
+READ ME BEFORE USE / 使用前必读
+
+MySQL Workbench 26.7.0 简体中文补丁 · 非官方预览版 zh.1
+MySQL Workbench 26.7.0 Simplified Chinese Patch · Unofficial Preview zh.1
+
+1. 补丁在哪里？ / Where is the patch?
+
+打开项目中的 dist 文件夹，找到并双击：
+Open the project's dist folder, then double-click:
+
+MySQL-Workbench-26.7.0-zh-CN-Patch.exe
+
+项目文件夹 / Project folder
+└─ dist
+   ├─ MySQL-Workbench-26.7.0-zh-CN-Patch.exe  ← 已有 Workbench / Workbench already installed
+   ├─ MySQL-Workbench-26.7.0-zh-CN-Setup.exe  ← 尚未安装 / Workbench not installed
+   └─ READ ME BEFORE USE.txt
+
+如果这份文档已经和补丁 EXE 放在同一个文件夹中，直接运行该 EXE 即可。项目里的 installer 文件夹存放安装脚本，src、scripts 和 node_modules 用于开发，普通使用者不需要打开它们或运行命令。
+
+If this document is already beside the patch EXE, run that EXE directly. The project's installer folder contains installer scripts. The src, scripts and node_modules folders are for development; normal users do not need to open them or run commands.
+
+2. 使用条件 / Requirements
+
+- 已安装 MySQL Workbench 26.7.0 Windows x64 版。 本补丁支持项目已核验的 MSI 和 ZIP 资源布局；其他版本或其他修改过的资源可能被拒绝。
+- MySQL Workbench 26.7.0 for Windows x64 must already be installed. The patch supports the verified MSI and ZIP resource layouts. Other versions or modified resources may be rejected.
+- 补丁完全离线，无需额外安装 Node.js、Python、npm 或 Inno Setup，也不需要连接数据库完成汉化安装。
+- The patch is fully offline. No separate installation of Node.js, Python, npm or Inno Setup is required, and no database connection is needed to install it.
+- 目标平台为 Windows 10/11 x64；已在本机 Windows 11 验证，Windows 10 和干净系统环境仍未验证。
+- Target platforms are Windows 10/11 x64. Local Windows 11 tests passed; Windows 10 and clean-system testing remain unverified.
+
+3. 如何安装？ / How to install
+
+1. 保存 SQL 和其他未保存的工作，然后关闭 Workbench。
+   Save SQL scripts and any other unsaved work, then close Workbench.
+2. 打开 dist，双击 MySQL-Workbench-26.7.0-zh-CN-Patch.exe。
+   Open dist and double-click MySQL-Workbench-26.7.0-zh-CN-Patch.exe.
+3. Windows 弹出管理员授权提示时，若要继续安装，选择“是”。选择“否”会取消本次安装。
+   If Windows requests administrator permission, choose Yes to proceed. Choosing No cancels this installation attempt.
+4. 在安装向导中选择现有 Workbench 的安装目录。通常是下面的路径；该目录中应能看到 MySQL Workbench.exe 和 resources 文件夹。若原版装在其他位置，请选择其实际目录。
+   In the wizard, select the existing Workbench installation directory. The usual path is shown below. It should contain MySQL Workbench.exe and a resources folder. If Workbench is installed elsewhere, select its actual directory.
+
+   C:\Program Files\MySQL\MySQL Workbench
+
+5. 阅读说明和许可条款后继续安装。程序会先校验待修改资源并备份原文件，再安装汉化内容。若提示资源不兼容，请停止并检查版本及目录。
+   Read the notices and license terms, then proceed. The installer verifies the target resources and backs up originals before applying the patch. If resources are reported as incompatible, stop and check the version and directory.
+6. 安装完成后，使用原来的 Workbench 快捷方式启动程序。默认界面语言为简体中文，无需手动复制文件。
+   After installation, launch Workbench using your existing shortcut. The interface defaults to Simplified Chinese. No manual file copying is needed.
+
+目录不要选成项目文件夹、dist、MySQL Server 的目录或数据库数据目录。
+
+Do not select the project folder, dist, a MySQL Server directory or a database data directory.
+
+4. 如何切换中英文？ / How to switch languages
+
+在程序顶部的 “语言 / Language” 菜单中选择 “简体中文” 或 “English”。保存工作，完全退出并重新启动 Workbench 后生效。选择 English 只切换界面语言，补丁仍然保留。
+
+Choose 简体中文 or English from the 语言 / Language menu at the top of the application. Save your work, fully exit Workbench and restart it for the change to take effect. Choosing English changes the interface language while keeping the patch installed.
+
+5. 如何卸载补丁、恢复原版？ / How to uninstall and restore the original
+
+1. 保存工作并关闭 Workbench。
+   Save your work and close Workbench.
+2. 打开 Windows“设置 → 应用 → 已安装的应用”（Windows 10 中通常叫“应用和功能”）。找到并卸载以下补丁条目：
+   Open Windows Settings → Apps → Installed apps (Apps & features on Windows 10). Find and uninstall this patch entry:
+
+   MySQL Workbench 26.7.0 简体中文补丁 (恢复英文 / Restore English)
+
+3. 点击该补丁条目的“卸载”，按向导操作。如果 Windows 请求管理员授权，选择“是”才能继续；取消授权则不会完成卸载。
+   Click Uninstall for the patch entry and follow the wizard. If Windows requests administrator permission, choose Yes to continue. Canceling permission prevents uninstallation from completing.
+4. 等待卸载程序校验备份并恢复原始资源。完成后，从原来的快捷方式启动 Workbench，即恢复原版英文界面。
+   Wait while the uninstaller verifies the backups and restores the original resources. After it finishes, launch Workbench using your existing shortcut to return to the original English interface.
+
+也可以从 Workbench 安装目录运行 localization\uninstaller\unins000.exe。请确认路径属于本补丁。
+
+Alternatively, run localization\uninstaller\unins000.exe inside the Workbench installation directory. Make sure it belongs to this patch.
+
+如果 Workbench 安装在默认位置，可以打开以下完整路径运行卸载程序：
+If Workbench is installed in the default location, open this full path to run the uninstaller:
+
+C:\Program Files\MySQL\MySQL Workbench\localization\uninstaller\unins000.exe
+
+如果安装目录不同，请将上述路径的前半部分替换为实际 Workbench 安装目录。不要运行其他软件目录中的同名卸载程序。
+If your installation directory differs, replace the beginning of the path with your actual Workbench directory. Do not run an identically named uninstaller from another application's directory.
+
+卸载补丁会保留连接配置、个人设置、SQL 脚本和数据库。它只负责恢复 Workbench 原始界面资源，不会卸载 MySQL Server。
+Uninstalling the patch preserves connection profiles, personal settings, SQL scripts and databases. It restores the original Workbench interface resources and does not uninstall MySQL Server.
+
+请勿误卸载原版 MySQL Workbench。 备份位于安装目录的 localization\original 中，请保留它。如果原程序升级或资源被其他工具修改，恢复程序可能拒绝继续，以免旧备份覆盖新文件；不要强行复制旧文件或删除备份。
+
+Do not accidentally uninstall the original MySQL Workbench. Backups are stored in localization\original inside the installation directory; keep them. If an upstream update or another tool has changed the resources, restoration may be refused to avoid overwriting newer files. Do not force-copy old files or delete the backups.
+
+如果提示文件已改变或恢复失败：保留完整报错和 localization\original 备份目录，停止操作，排查后再处理。不要通过删除程序文件来代替正常卸载。
+If files have changed or restoration fails, keep the full error message and the localization\original backup directory, then stop and investigate before proceeding. Do not delete application files as a substitute for normal uninstallation.
+
+如果找不到补丁卸载条目和上述卸载程序，先确认补丁是否曾成功安装；仅下载或复制补丁 EXE 不会安装补丁，也无需卸载。
+If neither the patch entry nor its uninstaller exists, first check whether the patch was ever successfully installed. Downloading or copying the patch EXE alone does not install it and requires no uninstallation.
+
+6. 连接配置、脚本和数据库会怎样？ / What happens to my connections, scripts and databases?
+
+补丁沿用原版 Workbench 的个人配置，不读取保存的凭据。安装和卸载逻辑保留用户连接、个人设置及 SQL 脚本；补丁不安装 MySQL Server，不修改其服务、配置或数据库数据。开始安装前仍应保存当前编辑器中的未保存内容。
+
+The patch uses the existing Workbench profile without reading stored credentials. Its install and uninstall logic preserves user connections, personal settings and SQL scripts. It does not install MySQL Server or modify its services, configuration or database data. Save any unsaved editor content before installation.
+
+7. 常见问题 / Common questions
+
+找不到补丁 EXE？ / Cannot find the patch EXE?
+
+进入项目的 dist 文件夹，不是 installer。如果 Windows 隐藏了文件扩展名，文件名可能显示为 MySQL-Workbench-26.7.0-zh-CN-Patch，类型应为“应用程序”。
+
+Open the project's dist folder, rather than installer. If Windows hides file extensions, the name may appear as MySQL-Workbench-26.7.0-zh-CN-Patch, with type Application.
+
+提示找不到 Workbench 或资源不兼容？ / Workbench not found or incompatible resources?
+
+确认目录中存在 MySQL Workbench.exe，并确认是 26.7.0 x64。Workbench 8.0 等其他版本不适用；同一版本被其他汉化工具修改后也可能不匹配。不要改名文件或绕过哈希校验。排查时保留报错文本和版本信息，不要分享密码或连接凭据。
+
+Confirm that the selected directory contains MySQL Workbench.exe and that the version is 26.7.0 x64. Other versions, including Workbench 8.0, are unsupported. Another localization tool may also cause a mismatch. Do not rename files or bypass hash checks. Keep the error text and version details for troubleshooting; do not share passwords or connection credentials.
+
+安装后仍是英文？ / Still seeing English after installation?
+
+完全退出并重启程序，在“语言 / Language”菜单中选择简体中文后再次重启。确认启动的是刚才打补丁的安装位置；电脑上可能有多个 Workbench。部分动态提示和编辑器文字仍为英文，属于已记录的限制。
+
+Fully exit and restart the application. Select Simplified Chinese in the language menu, then restart again. Make sure you are launching the installation you patched; multiple Workbench copies may exist. Some dynamic messages and editor text remain in English as documented limitations.
+
+能重复安装或随原版升级吗？ / Can I reinstall or upgrade Workbench?
+
+同一补丁支持对已核验资源重复安装，并校验现有备份。升级官方 Workbench 前，建议先关闭程序并正常卸载补丁、恢复原版；升级后仅使用明确支持新版本的补丁。
+
+The same patch supports repeated installation over recognized resources and checks existing backups. Before upgrading official Workbench, close the application and normally uninstall the patch to restore originals. After upgrading, use only a patch explicitly supporting the new version.
+
+另一台电脑如何使用？ / How do I use it on another computer?
+
+如果另一台电脑已安装受支持的 Workbench 26.7.0 x64，将 MySQL-Workbench-26.7.0-zh-CN-Patch.exe 和本说明复制过去，按上述步骤操作即可，无需复制整个开发项目。
+
+If the other computer already has a supported Workbench 26.7.0 x64 installation, copy MySQL-Workbench-26.7.0-zh-CN-Patch.exe and this document, then follow the steps above. The development project is not required.
+
+另一台电脑尚未安装 Workbench？ / What if Workbench is not installed?
+
+使用 MySQL-Workbench-26.7.0-zh-CN-Setup.exe，选择新的安装目录。它需要联网从 MySQL 官方下载约 318 MiB 的指定版本程序包并校验；不是单文件离线完整安装包。独立版与原版可并存，使用单独的个人配置，不自动迁移原版连接。
+
+Use MySQL-Workbench-26.7.0-zh-CN-Setup.exe and select a new installation directory. It downloads and verifies the fixed-version runtime, approximately 318 MiB, from MySQL's official site. It is not a single-file, fully offline installer. The independent edition can coexist with the original, uses a separate profile and does not automatically migrate existing connections.
+
+8. 当前限制与更多资料 / Current limitations and further information
+
+这是非官方社区预览版，已实现 1,799 条翻译，仍有部分动态后端提示、密码提示、编辑器命令和外部帮助保留英文。原版 26.7.0 的结果集导入/导出菜单处于禁用状态；本补丁保留原版功能状态。社区安装程序未签名。完整测试范围及未验证项目以 TEST_REPORT.txt 为准。
+
+This is an unofficial community preview with 1,799 translations. Some dynamic backend messages, password prompts, editor commands and external help remain in English. The upstream 26.7.0 result import/export menu items are disabled; the patch preserves upstream feature states. The community installers are unsigned. See TEST_REPORT.txt for the exact test scope and unverified items.
+
+dist 中还提供以下资料：
+Additional files are available in dist:
+
+文件 / File — 内容 / Contents
+README.txt — 中文安装与使用说明 / Chinese installation and usage guide
+CHANGELOG.txt — 修改记录 / Change history
+TEST_REPORT.txt — 测试证据与限制 / Test evidence and limitations
+BUILD.txt — 重新构建说明 / Rebuild instructions
+SOURCE-LICENSE-NOTICE.txt — 源码及许可说明 / Source and license notice
+localization-source.zip — 翻译资源、源码和构建脚本 / Translation resources, source code and build scripts
+SHA256SUMS.txt — 发布文件校验值 / Release file checksums

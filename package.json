@@ -1,0 +1,12 @@
+{
+  "name": "mysql-workbench-26-7-zh-cn",
+  "version": "26.7.0-zh.1",
+  "private": true,
+  "license": "GPL-2.0-only",
+  "scripts": {
+    "extract": "node scripts/localize.cjs --extract",
+    "build:patch": "node scripts/localize.cjs",
+    "test": "node --test tests/*.test.cjs"
+  },
+  "devDependencies": { "@babel/parser": "7.28.5", "@babel/traverse": "7.28.5", "playwright": "1.56.1" }
+}
